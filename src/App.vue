@@ -22,6 +22,7 @@ export default {
     <AppHeader></AppHeader>
     <main>
       <RouterView />
+      <strong>Current route path:</strong> {{ $route.fullPath }}
     </main>
     <AppFooter></AppFooter>
   </div>
