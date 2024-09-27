@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Pagina non trovata</h1>
+        <h1>404 Page</h1>
         <RouterLink to="/">Torna alla home</RouterLink>
     </div>
 </template>
